@@ -2,7 +2,7 @@ import re
 
 
 def preprocess_lns(lns):
-    conference_arr = ["IJCAL", "AAAI", "COLT", "CVPR", "NIPS", "KR", "SIGIR", "SIGKDD"]
+    conference_arr = ["IJCAI", "AAAI", "COLT", "CVPR", "NIPS", "KR", "SIGIR", "KDD"]
     author = []
     title = ''
     year = ''
