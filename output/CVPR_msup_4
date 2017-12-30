@@ -1,103 +1,103 @@
 7615
-Stan Z. Li, Zhen Lei, Shengcai Liao, 5
-Horst Bischof, Thomas Mauthner, Horst Possegger, 4
-Tomás Pajdla, Josef Sivic, Akihiko Torii, 4
-Shiguang Shan, Xilin Chen, Zhiwu Huang, 4
-Xilin Chen, Ruiping Wang 0001, Zhiwu Huang, 4
-Shiguang Shan, Xilin Chen, Ruiping Wang 0001, Zhiwu Huang, 4
-Shiguang Shan, Ruiping Wang 0001, Zhiwu Huang, 4
-Marios Savvides, Felix Juefei-Xu, Dipan K. Pal, 5
-Richard P. Wildes, Axel Pinz, Christoph Feichtenhofer, 4
-Bernt Schiele, Mykhaylo Andriluka, Leonid Pishchulin, 7
-Shiguang Shan, Xilin Chen, Meina Kan, 4
-Bernd Girod, Sam S. Tsai, Radek Grzeszczuk, 4
-Bernd Girod, David M. Chen, Radek Grzeszczuk, 4
-Carsten Rother, Christoph Rhemann, Margrit Gelautz, 5
-Zhe Lin 0001, Xiaohui Shen, Jonathan Brandt, 4
-Gang Hua, Zhe Lin 0001, Jonathan Brandt, 4
-Dorin Comaniciu, Yefeng Zheng, Bogdan Georgescu, 4
-Shuicheng Yan, Liang Lin, Xiaohui Shen, 4
-Alan L. Yuille, Long Zhu, Yuanhao Chen, 5
-Shiguang Shan, Xilin Chen, Wen Gao 0001, 10
-Jingdong Wang, Gang Zeng, Shipeng Li, 4
-Yoichi Sato, Imari Sato, Takahiro Okabe, 5
-Wolfgang Heidrich, Felix Heide, Matthias B. Hullin, 4
-Thomas S. Huang, Zhangyang Wang, Ding Liu, 4
-Emanuele Rodolà, Andrea Torsello, Filippo Bergamasco, 4
-Andrea Torsello, Andrea Albarelli, Filippo Bergamasco, 4
-Emanuele Rodolà, Andrea Torsello, Andrea Albarelli, Filippo Bergamasco, 4
-Emanuele Rodolà, Andrea Albarelli, Filippo Bergamasco, 4
-Vikas Singh, Nagesh Adluru, Hyunwoo J. Kim, 4
-Bernt Schiele, Rodrigo Benenson, Jan Hendrik Hosang, 4
-J. Ross Beveridge, Bruce A. Draper, David S. Bolme, 4
-Wangmeng Zuo, Lei Zhang, Shuhang Gu, 4
-Stan Z. Li, Zhen Lei, Dong Yi, 8
-Stan Z. Li, Zhen Lei, Junjie Yan, 7
-Dimitris N. Metaxas, Qingshan Liu, Peng Yang, 4
-Xuan Song, Xiaowei Shao, Huijing Zhao, 4
-Venu Govindaraju, Sergey Tulyakov, Xi Cheng, 4
-Xuan Song, Xiaowei Shao, Ryosuke Shibasaki, 4
-Xiao Liu, Jiajun Bu, Mingli Song, 4
-Xiao Liu, Chun Chen, Mingli Song, 4
-Qi Tian, Liang Zheng, Shengjin Wang, 4
-Scott Cohen, Brian L. Price, Jimei Yang, 5
-Vittorio Murino, Marco Cristani, Alessandro Perina, 5
-Chunhua Shen, Anton van den Hengel, Qinfeng Shi, 8
-Xiang Bai, Longin Jan Latecki, Wenyu Liu, 4
-Horst Bischof, Christian Leistner, Samuel Schulter, 4
-Horst Bischof, Christian Leistner, Amir Saffari, 6
-Rakesh Kumar 0001, Supun Samarasekera, Taragay Oskiper, 4
-Xiaoou Tang, Xiaogang Wang, Yi Sun, 4
-Andrew W. Fitzgibbon, Jamie Shotton, Shahram Izadi, 6
-Xiaogang Wang, Wanli Ouyang, Hongsheng Li, 8
-Shuicheng Yan, Liang Lin, Jiashi Feng, 4
-Yi Fang, Karthik Ramani, Mengtian Sun, 4
-Raquel Urtasun, Sanja Fidler, Roozbeh Mottaghi, 4
-Stephen Lin, Kun Zhou, Chen Li, 4
-Liang Lin, Xiaohui Shen, Xiaodan Liang, 5
-Shuicheng Yan, Liang Lin, Xiaohui Shen, Xiaodan Liang, 4
-Shuicheng Yan, Xiaohui Shen, Xiaodan Liang, 4
-Shuicheng Yan, Jiashi Feng, Xiaodan Liang, 5
-Shuicheng Yan, Liang Lin, Xiaodan Liang, 4
-Yu-Wing Tai, In-So Kweon, Jaesik Park, 4
-Chunhua Shen, Anton van den Hengel, Anthony R. Dick, 4
-Chunhua Shen, Ian D. Reid 0001, Guosheng Lin, 4
-Ling Shao, Fumin Shen, Li Liu, 5
-Horst Bischof, Peter M. Roth, Sabine Sternig, 4
-Xiaoou Tang, Chen Change Loy, Ping Luo, 4
-Xiaoou Tang, Xiaogang Wang, Ping Luo, 5
-Trevor Darrell, Kate Saenko, Judy Hoffman, 4
-Maja Pantic, Vladimir Pavlovic, Ognjen Rudovic, 4
-Bernt Schiele, Rodrigo Benenson, Mohamed Omran, 4
-Anton van den Hengel, Qinfeng Shi, Yanning Zhang, 4
-Gang Wang 0012, Bing Wang 0003, Zhen Zuo, 4
-Gang Wang 0012, Bing Shuai, Zhen Zuo, 4
-Jingyi Yu, Yu Ji, Jinwei Ye, 5
-Masatoshi Okutomi, Yinqiang Zheng, Shigeki Sugimoto, 6
-Antonio Torralba 0001, Hamed Pirsiavash, Carl Vondrick, 4
-Bernt Schiele, Mykhaylo Andriluka, Bjoern Andres, 4
-Chunhua Shen, Anton van den Hengel, Lingqiao Liu, 8
-Svetha Venkatesh, Senjian An, Wanquan Liu, 5
-Rainer Stiefelhagen, Makarand Tapaswi, Martin Bäuml, 4
-Gang Hua, Zhe Lin 0001, Haoxiang Li, 4
-Gang Hua, Jonathan Brandt, Haoxiang Li, 4
-Zhe Lin 0001, Jonathan Brandt, Haoxiang Li, 4
-Gang Hua, Zhe Lin 0001, Jonathan Brandt, Haoxiang Li, 4
-Hans-Peter Seidel, Christian Theobalt, Carsten Stoll, 4
-Trevor Darrell, Kate Saenko, Marcus Rohrbach, 5
-Horst Bischof, Peter M. Roth, Paul Wohlhart, 4
-Shuicheng Yan, Qiang Chen, ZhongYang Huang, 4
-Gang Hua, Xinbo Gao, Zhenxing Niu, 4
-Stan Z. Li, Zhen Lei, Xiangyu Zhu, 4
-Michael Felsberg, Fahad Shahbaz Khan, Martin Danelljan, 4
-Shiguang Shan, Xilin Chen, Ruiping Wang 0001, 9
-Andrew W. Fitzgibbon, Jamie Shotton, Jonathan Taylor, 4
-Andrew W. Fitzgibbon, Shahram Izadi, Jonathan Taylor, 5
-Rakesh Kumar 0001, Supun Samarasekera, Zhiwei Zhu, 4
-Bernt Schiele, Rodrigo Benenson, Anna Khoreva, 4
-Tao Mei, Ting Yao, Yingwei Pan, 4
-Emanuele Rodolà, Andrea Torsello, Andrea Albarelli, 6
-Bernt Schiele, Mykhaylo Andriluka, Siyu Tang, 4
-Mykhaylo Andriluka, Bjoern Andres, Siyu Tang, 4
-Bernt Schiele, Mykhaylo Andriluka, Bjoern Andres, Siyu Tang, 4
-Bernt Schiele, Bjoern Andres, Siyu Tang, 5
+Stan Z. Li,Zhen Lei,Shengcai Liao, 5
+Horst Bischof,Thomas Mauthner,Horst Possegger, 4
+Tomás Pajdla,Josef Sivic,Akihiko Torii, 4
+Shiguang Shan,Xilin Chen,Zhiwu Huang, 4
+Xilin Chen,Ruiping Wang 0001,Zhiwu Huang, 4
+Shiguang Shan,Xilin Chen,Ruiping Wang 0001,Zhiwu Huang, 4
+Shiguang Shan,Ruiping Wang 0001,Zhiwu Huang, 4
+Marios Savvides,Felix Juefei-Xu,Dipan K. Pal, 5
+Richard P. Wildes,Axel Pinz,Christoph Feichtenhofer, 4
+Bernt Schiele,Mykhaylo Andriluka,Leonid Pishchulin, 7
+Shiguang Shan,Xilin Chen,Meina Kan, 4
+Bernd Girod,Sam S. Tsai,Radek Grzeszczuk, 4
+Bernd Girod,David M. Chen,Radek Grzeszczuk, 4
+Carsten Rother,Christoph Rhemann,Margrit Gelautz, 5
+Zhe Lin 0001,Xiaohui Shen,Jonathan Brandt, 4
+Gang Hua,Zhe Lin 0001,Jonathan Brandt, 4
+Dorin Comaniciu,Yefeng Zheng,Bogdan Georgescu, 4
+Shuicheng Yan,Liang Lin,Xiaohui Shen, 4
+Alan L. Yuille,Long Zhu,Yuanhao Chen, 5
+Shiguang Shan,Xilin Chen,Wen Gao 0001, 10
+Jingdong Wang,Gang Zeng,Shipeng Li, 4
+Yoichi Sato,Imari Sato,Takahiro Okabe, 5
+Wolfgang Heidrich,Felix Heide,Matthias B. Hullin, 4
+Thomas S. Huang,Zhangyang Wang,Ding Liu, 4
+Emanuele Rodolà,Andrea Torsello,Filippo Bergamasco, 4
+Andrea Torsello,Andrea Albarelli,Filippo Bergamasco, 4
+Emanuele Rodolà,Andrea Torsello,Andrea Albarelli,Filippo Bergamasco, 4
+Emanuele Rodolà,Andrea Albarelli,Filippo Bergamasco, 4
+Vikas Singh,Nagesh Adluru,Hyunwoo J. Kim, 4
+Bernt Schiele,Rodrigo Benenson,Jan Hendrik Hosang, 4
+J. Ross Beveridge,Bruce A. Draper,David S. Bolme, 4
+Wangmeng Zuo,Lei Zhang,Shuhang Gu, 4
+Stan Z. Li,Zhen Lei,Dong Yi, 8
+Stan Z. Li,Zhen Lei,Junjie Yan, 7
+Dimitris N. Metaxas,Qingshan Liu,Peng Yang, 4
+Xuan Song,Xiaowei Shao,Huijing Zhao, 4
+Venu Govindaraju,Sergey Tulyakov,Xi Cheng, 4
+Xuan Song,Xiaowei Shao,Ryosuke Shibasaki, 4
+Xiao Liu,Jiajun Bu,Mingli Song, 4
+Xiao Liu,Chun Chen,Mingli Song, 4
+Qi Tian,Liang Zheng,Shengjin Wang, 4
+Scott Cohen,Brian L. Price,Jimei Yang, 5
+Vittorio Murino,Marco Cristani,Alessandro Perina, 5
+Chunhua Shen,Anton van den Hengel,Qinfeng Shi, 8
+Xiang Bai,Longin Jan Latecki,Wenyu Liu, 4
+Horst Bischof,Christian Leistner,Samuel Schulter, 4
+Horst Bischof,Christian Leistner,Amir Saffari, 6
+Rakesh Kumar 0001,Supun Samarasekera,Taragay Oskiper, 4
+Xiaoou Tang,Xiaogang Wang,Yi Sun, 4
+Andrew W. Fitzgibbon,Jamie Shotton,Shahram Izadi, 6
+Xiaogang Wang,Wanli Ouyang,Hongsheng Li, 8
+Shuicheng Yan,Liang Lin,Jiashi Feng, 4
+Yi Fang,Karthik Ramani,Mengtian Sun, 4
+Raquel Urtasun,Sanja Fidler,Roozbeh Mottaghi, 4
+Stephen Lin,Kun Zhou,Chen Li, 4
+Liang Lin,Xiaohui Shen,Xiaodan Liang, 5
+Shuicheng Yan,Liang Lin,Xiaohui Shen,Xiaodan Liang, 4
+Shuicheng Yan,Xiaohui Shen,Xiaodan Liang, 4
+Shuicheng Yan,Jiashi Feng,Xiaodan Liang, 5
+Shuicheng Yan,Liang Lin,Xiaodan Liang, 4
+Yu-Wing Tai,In-So Kweon,Jaesik Park, 4
+Chunhua Shen,Anton van den Hengel,Anthony R. Dick, 4
+Chunhua Shen,Ian D. Reid 0001,Guosheng Lin, 4
+Ling Shao,Fumin Shen,Li Liu, 5
+Horst Bischof,Peter M. Roth,Sabine Sternig, 4
+Xiaoou Tang,Chen Change Loy,Ping Luo, 4
+Xiaoou Tang,Xiaogang Wang,Ping Luo, 5
+Trevor Darrell,Kate Saenko,Judy Hoffman, 4
+Maja Pantic,Vladimir Pavlovic,Ognjen Rudovic, 4
+Bernt Schiele,Rodrigo Benenson,Mohamed Omran, 4
+Anton van den Hengel,Qinfeng Shi,Yanning Zhang, 4
+Gang Wang 0012,Bing Wang 0003,Zhen Zuo, 4
+Gang Wang 0012,Bing Shuai,Zhen Zuo, 4
+Jingyi Yu,Yu Ji,Jinwei Ye, 5
+Masatoshi Okutomi,Yinqiang Zheng,Shigeki Sugimoto, 6
+Antonio Torralba 0001,Hamed Pirsiavash,Carl Vondrick, 4
+Bernt Schiele,Mykhaylo Andriluka,Bjoern Andres, 4
+Chunhua Shen,Anton van den Hengel,Lingqiao Liu, 8
+Svetha Venkatesh,Senjian An,Wanquan Liu, 5
+Rainer Stiefelhagen,Makarand Tapaswi,Martin Bäuml, 4
+Gang Hua,Zhe Lin 0001,Haoxiang Li, 4
+Gang Hua,Jonathan Brandt,Haoxiang Li, 4
+Zhe Lin 0001,Jonathan Brandt,Haoxiang Li, 4
+Gang Hua,Zhe Lin 0001,Jonathan Brandt,Haoxiang Li, 4
+Hans-Peter Seidel,Christian Theobalt,Carsten Stoll, 4
+Trevor Darrell,Kate Saenko,Marcus Rohrbach, 5
+Horst Bischof,Peter M. Roth,Paul Wohlhart, 4
+Shuicheng Yan,Qiang Chen,ZhongYang Huang, 4
+Gang Hua,Xinbo Gao,Zhenxing Niu, 4
+Stan Z. Li,Zhen Lei,Xiangyu Zhu, 4
+Michael Felsberg,Fahad Shahbaz Khan,Martin Danelljan, 4
+Shiguang Shan,Xilin Chen,Ruiping Wang 0001, 9
+Andrew W. Fitzgibbon,Jamie Shotton,Jonathan Taylor, 4
+Andrew W. Fitzgibbon,Shahram Izadi,Jonathan Taylor, 5
+Rakesh Kumar 0001,Supun Samarasekera,Zhiwei Zhu, 4
+Bernt Schiele,Rodrigo Benenson,Anna Khoreva, 4
+Tao Mei,Ting Yao,Yingwei Pan, 4
+Emanuele Rodolà,Andrea Torsello,Andrea Albarelli, 6
+Bernt Schiele,Mykhaylo Andriluka,Siyu Tang, 4
+Mykhaylo Andriluka,Bjoern Andres,Siyu Tang, 4
+Bernt Schiele,Mykhaylo Andriluka,Bjoern Andres,Siyu Tang, 4
+Bernt Schiele,Bjoern Andres,Siyu Tang, 5

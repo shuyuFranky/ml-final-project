@@ -1,0 +1,52 @@
+# Carla P. Gomes,Stefano Ermon,Bart Selman, 11
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,11
+# Feiping Nie,Heng Huang,Hua Wang, 15
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,15
+# Heng Huang,Chris H. Q. Ding,Hua Wang, 10
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,10
+# Jiafeng Guo,Yanyan Lan,Jun Xu, 12
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,12
+# Xueqi Cheng,Jiafeng Guo,Yanyan Lan,Jun Xu, 12
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,12
+# Xueqi Cheng,Yanyan Lan,Jun Xu, 12
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,12
+# Xueqi Cheng,Jiafeng Guo,Jun Xu, 12
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,12
+# Frank Wolter,Roman Kontchakov,Michael Zakharyaschev, 9
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,12
+# Shiguang Shan,Xilin Chen,Wen Gao 0001, 10
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,10
+# Huan Liu,Jiliang Tang,Xia Hu, 8
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,10
+# Tie-Yan Liu,Wei Chen,Zhiming Ma, 8
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,10
+# Dacheng Tao,Chao Xu 0006,Chang Xu, 11
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,11
+# Yiqun Liu,Shaoping Ma,Min Zhang 0006, 17
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,17
+# Gang Chen 0001,Lidan Shou,Ke Chen 0005, 10
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,10
+# Feiping Nie,Heng Huang,Chris H. Q. Ding, 13
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Tao Mei,Ting Yao,Yingwei Pan, 9
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Chunhua Shen,Anton van den Hengel,Qinfeng Shi, 8
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Hongyuan Zha,Xiaokang Yang,Junchi Yan, 8
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Xiaogang Wang,Wanli Ouyang,Hongsheng Li, 9
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Craig Macdonald,Iadh Ounis,Richard McCreadie, 8
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Stan Z. Li,Zhen Lei,Dong Yi, 8
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Thomas S. Huang,Zhangyang Wang,Yingzhen Yang, 8
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Heng Huang,Chris H. Q. Ding,Dijun Luo, 8
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Chunhua Shen,Anton van den Hengel,Lingqiao Liu, 9
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Shiguang Shan,Xilin Chen,Ruiping Wang 0001, 9
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,13
+# Xueqi Cheng,Jiafeng Guo,Yanyan Lan, 18
+TrustSVD,Collaborative,Filtering,Explicit,Implicit,18
