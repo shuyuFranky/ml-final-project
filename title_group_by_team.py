@@ -12,8 +12,8 @@ title = data['title'].values
 infile = "./output/all_msup_8"
 if len(sys.argv) == 2:
     infile = sys.argv[1]
-outfile = infile + "_title_data_team"
-outfile = infile + "_title_data_person"
+# outfile = infile + "_title_data_team"
+# outfile = infile + "_title_data_person"
 
 
 def gen_title_data_team():

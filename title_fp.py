@@ -11,11 +11,12 @@ authors = preprocess(data['author'].values)
 title = data['title'].values
 min_sup = 10
 
-infile = "./output/all_msup_8"
+infile = "./output_group_by_year/all_msup_before_5"
+# infile = "./output_group_by_year/all_msup_after_8"
 if len(sys.argv) == 2:
     infile = sys.argv[1]
-outfile = infile + "_title_fp"
-outfile = infile + "_title_fp"
+# outfile = infile + "_title_fp_person"
+# outfile = infile + "_title_fp_team"
 
 
 def fliter_stopwords(indata):
