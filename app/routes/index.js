@@ -13,4 +13,9 @@ router.get('/data', function(req, res, next) {
   res.send(flare);
 });
 
+/** Echart */
+router.get('/echart', function(req, res, next) {
+  res.render('echarts', {title: 'Echart' });
+});
+
 module.exports = router;

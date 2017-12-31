@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/css/style.css' />
+    <!-- 引入 echarts.js -->
+    <script src="/js/echarts.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.js" ></script>
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+    <div id="echart" style="height:500px;"></div>
+    <script src="/js/myecharts.js"></script>
+    <!-- jQuery -->
+    <script type="text/javascript">
+      $('#echart').echarts_graph({
+        data: "haha"
+      });
+    </script>
+  </body>
+</html>
