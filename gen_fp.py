@@ -9,7 +9,7 @@ def preprocess(indata):
     return data
 
 
-min_sup = 4
+min_sup = 5
 conf_arr = ["IJCAI", "AAAI", "COLT", "CVPR", "NIPS", "KR", "SIGIR", "KDD"]
 infile = "./data/papers.csv"
 outfile = "./output/"
@@ -23,5 +23,5 @@ for conf in conf_arr:
         for itemset in find_fp(transactions, min_sup, include_support=True):
             if len(itemset[0]) < 3:
                 continue
-            names = ", ".join(itemset[0])
+            names = ",".join(itemset[0])
             sfh.write(names + ", " + str(itemset[1]) + "\n")
